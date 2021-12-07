@@ -1,0 +1,29 @@
+#video{
+    border: 2px solid red;
+    position: absolute;
+    top: 5%;
+    left: 30%;
+}
+body{
+    background-color: gray;
+}
+#snap{
+    position: absolute;
+    top: 80%;
+    left: 46%;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 4px;
+}
+#canvas{
+    border: 1px solid black;
+    object-fit: contain;
+}
+#save{
+    margin-left:5%;
+    padding: 6px 20px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
